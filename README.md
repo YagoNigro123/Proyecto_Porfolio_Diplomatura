@@ -1,13 +1,21 @@
 # Yago Nigro - Portfolio Web
+
+Este proyecto fue desarrollado como entrega final para la Diplomatura en Desarrollo Web Full Stack.
+La aplicación integra frontend y backend de forma completa, aplicando las principales tecnologías aprendidas durante la cursada.
+
+En el backend utilicé Node.js y Express, implementando una arquitectura modular que permite gestionar y actualizar los proyectos del portfolio de manera dinámica. Para la capa de vistas incorporé Handlebars, lo que aporta mayor organización, reutilización de componentes y separación clara de responsabilidades.
+
+El sistema incluye además un formulario de contacto funcional que utiliza Nodemailer para el envío de correos a través de Gmail. Este proceso se realiza mediante una API dedicada, asegurando una comunicación estable, segura y fácil de mantener.
+
+El proyecto fue concebido originalmente como mi portfolio profesional. Si bien decidí no utilizarlo finalmente debido a mi autoexigencia y estándares actuales, continúa totalmente operativo y representa una excelente demostración del dominio de tecnologías full stack, buenas prácticas y estructura de proyecto escalable.
+
+
+
 <img width="1154" height="630" alt="Captura de pantalla 2025-09-04 134253" src="https://github.com/user-attachments/assets/ba8063be-c4f0-4188-b0d6-abf7375f534e" />
-
-
-
-Bienvenido a mi portfolio personal. Aquí encontrarás una selección de mis proyectos de desarrollo web, demostrando mis habilidades en **frontend** y **backend**, así como mi compromiso con el código limpio, escalable y buenas prácticas.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript
 - **Backend:** Node.js, Express.js
@@ -17,7 +25,7 @@ Bienvenido a mi portfolio personal. Aquí encontrarás una selección de mis pro
 
 ---
 
-## ⚙️ Instalación y uso
+## Instalación y uso
 
 1. **Clona el repositorio:**
    ```bash
@@ -42,7 +50,7 @@ Bienvenido a mi portfolio personal. Aquí encontrarás una selección de mis pro
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 portfolio/
@@ -53,7 +61,7 @@ portfolio/
 
 ---
 
-## 📄 Funcionalidades principales
+## Funcionalidades principales
 
 - Visualización de proyectos destacados
 - Descarga de CV en PDF
