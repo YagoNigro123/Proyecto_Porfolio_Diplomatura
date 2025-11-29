@@ -9,7 +9,8 @@ El sistema incluye además un formulario de contacto funcional que utiliza Nodem
 
 El proyecto fue concebido originalmente como mi portfolio profesional. Si bien decidí no utilizarlo finalmente debido a mi autoexigencia y estándares actuales, continúa totalmente operativo y representa una excelente demostración del dominio de tecnologías full stack, buenas prácticas y estructura de proyecto escalable.
 
-
+## Video del proyecto
+https://youtu.be/CoJ1xo-MklY
 
 <img width="1154" height="630" alt="Captura de pantalla 2025-09-04 134253" src="https://github.com/user-attachments/assets/ba8063be-c4f0-4188-b0d6-abf7375f534e" />
 
@@ -71,9 +72,6 @@ portfolio/
 - Panel de administración para gestión de proyectos
 
 ---
-
-## Video del proyecto
-https://youtu.be/CoJ1xo-MklY
 
 ## 📬 Contacto
 
